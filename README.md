@@ -13,7 +13,7 @@ I will continue to update this list as I continue my data science journey.
 ## Python
 |Name   | Description  | Packages Used |Project Link|  
 |-------| -----------  | -----------   |-------------|
-| Rhode Island Voter Role Webscraping| This is a webscraping project where I took a dataset of voters and determined their voting status | BeautifulSoup, Pandas |Code coming soon |
+| Rhode Island Voter Role Webscraping| This is a webscraping project where I took a dataset of voters and determined which voting district they were in for both house and senate races | Selenium, Pandas |Code coming soon |
 
 ## SQL
 |Name   | Description   |Project Link|  
