@@ -7,6 +7,7 @@ I will continue to update this list as I continue my data science journey.
 |Name   | Description  | Libraries Used |Project Link|  
 |-------| -----------  | -----------   |-------------|
 | University of Notre Dame Report| This is an EDA on Notre Dame's public data| ggplot, plotly | |
+| Tabular Playground Kaggle Competition| This is my submission of a regression Kaggle Competition| caret, MASS, xgboost| https://github.com/adofosam/Tabular-Playground-Kaggle-Competition/tree/main| 
 
 
 ## Python
