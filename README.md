@@ -15,8 +15,3 @@ I will continue to update this list as I continue my data science journey.
 |Name   | Description  | Packages Used |Project Link|  
 |-------| -----------  | -----------   |-------------|
 | Rhode Island Voter Role Webscraping| This is a webscraping project where I took a dataset of voters and determined which voting district they were in for both house and senate races | Selenium, Pandas |https://github.com/adofosam/Voter-Role-Web-Scraping |
-
-## SQL
-|Name   | Description   |Project Link|  
-|-------| -----------   |-------------|
-||||||
